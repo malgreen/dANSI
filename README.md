@@ -13,6 +13,7 @@ Change layout in settings
 
 ### Mac
 Open *dANSI-mac.dmg* from the downloaded Mac folder
+
 Run the *Keyboard Installer* file, then drag *dansi-bundle.bundle* into the installer
 
 Change layout in input references
